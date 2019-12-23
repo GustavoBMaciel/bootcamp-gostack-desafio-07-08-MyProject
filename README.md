@@ -17,3 +17,11 @@ O layout do projeto está em anexo com esse desafio. O arquivo `.sketch` (no dir
 ### Resultado:
 
 <img src=".github/demo.gif" height="400">
+
+<h3 align="center">
+  Desafio 8: Utilizando React Hooks
+</h3>
+
+## :rocket: Sobre o desafio
+
+Nesse desafio você deve converter a aplicação que você desenvolveu no desafio do módulo anterior para utilização de React Hooks.
